@@ -1,0 +1,26 @@
+.body{
+    background: linear-gradient(to bottom, #ADD8E6, #00008B);
+
+}
+.titulo{
+    text-align: center;
+}
+.imgcontainer { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.imagemprincipal{
+    width: 650px;
+}
+.texto{
+    font-size: 3.5ch;
+    text-align: justify;
+}
+.imagemespecie{
+    width: 400px;
+}
+.especiescontainer{
+    display: flex;
+    justify-content: space-around; 
+}
